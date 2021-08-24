@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GameFragment">
+
+    <com.delta.ludo.Board.GameBoard
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.delta.ludo.Coins.RedCoins
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.delta.ludo.Coins.GreenCoins
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.delta.ludo.Coins.BlueCoins
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.delta.ludo.Coins.YellowCoins
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</FrameLayout>

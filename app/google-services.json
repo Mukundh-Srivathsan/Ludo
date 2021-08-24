@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "665366487534",
+    "firebase_url": "https://ludo-delta-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ludo-delta",
+    "storage_bucket": "ludo-delta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665366487534:android:67afe61db98db8553f6eff",
+        "android_client_info": {
+          "package_name": "com.delta.ludo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665366487534-a01cndfrhie4t7lu3gdtgmgkrdno8knc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX0Dj9SeLJX5iLkPyfPucuD7j9LxU_I4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665366487534-a01cndfrhie4t7lu3gdtgmgkrdno8knc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
